@@ -4,9 +4,9 @@ Things I am using.
 
 ## Editor
 
-- Editor: [VS Code](https://code.visualstudio.com/)
-- Linter & Formatter: [kaivanwong/eslint-config](https://github.com/kaivanwong/eslint-config)
-- VS Code Settings & Extensions: [kaivanwong/vscode-settings](https://github.com/kaivanwong/vscode-settings)
+- Editor: [VS Code](https://code.visualstudio.com/).
+- Linter & Formatter: [kaivanwong/eslint-config](https://github.com/kaivanwong/eslint-config).
+- VS Code Settings & Extensions: [kaivanwong/vscode-settings](https://github.com/kaivanwong/vscode-settings).
 
 ## Chrome Extensions
 
